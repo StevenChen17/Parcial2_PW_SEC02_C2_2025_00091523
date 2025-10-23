@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "68faa5761fa2bbddea563a57",
+    "isActive": true,
+    "picture": "https://picsum.photos/seed/68faa57693b949bbba6cec5e/200/200",
+    "balance": "$1,206.28",
+    "client": "Carly Odom",
+    "gender": "female"
+  },
+  {
+    "_id": "68faa57682efc5e8c2fa0600",
+    "isActive": true,
+    "picture": "https://picsum.photos/seed/68faa576f4a2ae3137aaf9db/200/200",
+    "balance": "$1,204.93",
+    "client": "Savage Padilla",
+    "gender": "male"
+  },
+  {
+    "_id": "68faa576646d6c3dff3c9e4d",
+    "isActive": false,
+    "picture": "https://picsum.photos/seed/68faa576832a48657e5250c1/200/200",
+    "balance": "$3,237.04",
+    "client": "Campbell Horne",
+    "gender": "male"
+  },
+  {
+    "_id": "68faa576c1db544b9fe621fe",
+    "isActive": true,
+    "picture": "https://picsum.photos/seed/68faa576e0c4ad002c61f4bd/200/200",
+    "balance": "$1,073.81",
+    "client": "Stephanie Melendez",
+    "gender": "female"
+  },
+  {
+    "_id": "68faa5766366da271fdf8ac6",
+    "isActive": true,
+    "picture": "https://picsum.photos/seed/68faa57670ec4c59e8dbac0e/200/200",
+    "balance": "$3,299.54",
+    "client": "Mcintosh Nguyen",
+    "gender": "male"
+  },
+  {
+    "_id": "68faa576142ad5981b5df89e",
+    "isActive": true,
+    "picture": "https://picsum.photos/seed/68faa576777a0974047aabe5/200/200",
+    "balance": "$3,789.19",
+    "client": "Rollins Bishop",
+    "gender": "male"
+  },
+  {
+    "_id": "68faa5762fbc776f9e9fd4bd",
+    "isActive": true,
+    "picture": "https://picsum.photos/seed/68faa5767d4188bda09e9fef/200/200",
+    "balance": "$1,228.57",
+    "client": "Stella Holman",
+    "gender": "female"
+  }
+]
