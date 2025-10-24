@@ -1,18 +1,13 @@
 const express = require('express');
-const cuentas = require('./cuentas.json'); 
-
 const app = express();
+const routes = require('./routes');
+
 app.use(express.json());
+app.use("/", routes); 
 
 const PORT = 3130;
-
 app.listen(PORT, () => {
-  console.log("Server Listening on PORT:", PORT);
+  console.log(`Server listening on port ${PORT}`);
 });
 
-app.get("/cuentas", (req, res) => {
-  res.send({
-    count: cuentas.length,
-    data: cuentas
-  });
-});
+
